@@ -1,4 +1,4 @@
-# debank-project
+# Client App
 
 ## Project setup
 ```
